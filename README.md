@@ -1,3 +1,4 @@
+Hello to all
 # GitPlaypen
 
 This is the git playpen for the Digital Jersey Coding Programme.
